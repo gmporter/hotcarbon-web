@@ -1,0 +1,52 @@
+baseurl = "https://hotcarbon.org"
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+languageCode = "en-us"
+theme = "hugo-classic"
+title = "HotCarbon 2023"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+name = "About"
+url = "/#hotcarbon-2023:-2nd-workshop-on-sustainable-computer-systems"
+weight = 1
+
+[[menu.main]]
+name = "Participate"
+url = "/#call-for-papers/"
+weight = 2
+
+[[menu.main]]
+name = "Program"
+url = "/program/"
+weight = 3
+
+[[menu.main]]
+name = "Register!"
+url = "/registration/"
+weight = 4
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "Homepage for HotCarbon 2023"
+footer = "[UCSD](https://ucsd.edu) | [UW](https://www.washington.edu/)"
