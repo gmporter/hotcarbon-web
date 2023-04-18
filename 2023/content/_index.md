@@ -43,11 +43,7 @@ We solicit position papers that address sustainability and/or the carbon footpri
 
 By its very nature, HotCarbon takes a broad view of systems research, relevant metrics, and intertwined infrastructure and software. This includes operating systems, storage, distributed systems, mobile and embedded systems, virtualization, programming languages, networking, security, dependability, and manageability, as well as new systems contributions influenced by other fields such as hardware design, machine learning, verification, economics, social organization, and biological or other nontraditional computing systems.  Because of the nature of sustainability, research that connects to other complex infrastructures such as power grids, electronic supply chains, circular economies, right-to-repair/demanufacturing, is directly relevant. This year, we are broadening the scope to also include research on systems issues in sustainable AI, including those that span the life cycle of AI models, specialized AI systems, data, and ecosystem.
 
-Research and position paper submissions must be no longer than __5__ pages
-including figures and tables, plus as many pages as needed for references.
-Submissions must be in two-column format, using 10-point type on 12-point
-(single-spaced) leading, in a text block __7" wide x 9" deep, with .33" inter-column space__, formatted for 8.5" x 11" paper. Templates are available at
-https://www.usenix.org/conferences/author-resources/paper-templates
+Research and position paper submissions must be no longer than __5__ pages including figures and tables, plus as many pages as needed for references.  The submission must be in PDF format and be formatted according to the official ACM Proceedings format. Word and LaTeX templates are available on the [ACM Publications Website](https://www.acm.org/publications/proceedings-template). Please use the template “sigconf”. The conference acronym is “HotCarbon'23, July 9, 2023, Boston, MA."
 
 Submissions will be __double blind__. The title and an abstract should appear on
 the first page; author names should not. Authors must make a good faith effort
@@ -76,10 +72,7 @@ attendees before the workshop. After the workshop, accepted papers will be made
 available on the workshop site, along with slides of the presentation and in
 some cases a summary of the discussion.
 
-This workshop will adhere to the USENIX [code of
-conduct](https://www.usenix.org/conferences/coc) and [diversity and
-inclusion](https://www.usenix.org/conferences/diversity-and-inclusion)
-guidelines.
+This workshop will adhere to the [ACM Code of Ethics](https://www.acm.org/code-of-ethics).
 
 ## Program Chairs
 
