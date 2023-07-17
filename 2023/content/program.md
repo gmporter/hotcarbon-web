@@ -101,7 +101,7 @@ __Panelists: Martha Kim (Columbia Univ.), Ramya Raghavendra (Meta), Huamin Chen 
 
 [Link to panel slides](/2023/pdf/panel.pdf)
 
-[Link to the panel discussionA (video)](https://mediaspace.ucsd.edu/media/HotCarbon%E2%80%9923%3A%20Panel%3A%20%E2%80%9CCan%20AI%20be%20sustainable%E2%80%9D/1_ypi4hsme)
+[Link to the panel discussion (video)](https://mediaspace.ucsd.edu/media/HotCarbon%E2%80%9923%3A%20Panel%3A%20%E2%80%9CCan%20AI%20be%20sustainable%E2%80%9D/1_ypi4hsme)
 
 ## Concluding Remarks (_5:30pm_)
 
