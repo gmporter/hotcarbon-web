@@ -5,25 +5,29 @@ description: "Homepage for HotCarbon 2023"
 
 # HotCarbon 2023: 2nd Workshop on Sustainable Computer Systems
 
-This 2nd Workshop on Sustainable Computer Systems Design and Implementation hopes
-to bring together researchers and practitioners in computer and network systems
-to engage in a lively discussion focused on sustainability throughout the
-entire lifecycle of modern computing, focusing on both operational and embodied
-impact of computer systems.
+This 2nd Workshop on Sustainable Computer Systems Design and Implementation
+hopes to bring together researchers and practitioners in computer and network
+systems to engage in a lively discussion focused on sustainability throughout
+the entire lifecycle of modern computing, focusing on both operational and
+embodied impact of computer systems.
 
 ## Updates and news
 
-* April 4: Call for Papers Open!
+* Full copies of the papers are now linked off the program!
+* The registration page and link to register are now available on the [registration page](/2023/registration)
+* The paper [submission website](https://hotcarbon23.hotcrp.com/) is now available.
+* April 28: Deadline extended to May 21!
+* April 4: Call for Papers Open
 
 ## Technical program
 
-The accepted papers and talks will be made available on the [Technical Program](/program)
+The accepted papers and talks will be made available on the [Technical Program](/2023/program)
 
 ## Key Dates and locations
 
 * Date: July 9, 2023 (immediately before OSDI 2023)
 * Location: Boston, MA
-* All Submissions Deadline: May 8, 2023 (AoE)
+* All Submissions Deadline: May 21, 2023 (AoE) (updated)
 * Notifications: June 12, 2023
 
 
@@ -100,9 +104,9 @@ This workshop will adhere to the [ACM Code of Ethics](https://www.acm.org/code-o
 * Carole-Jean Wu, Meta/Facebook AI Research
 * Jeff Zhuang, Intel
 
-## Registration
+## Paper submission
 
-The [registration website](/registration) will be available soon!
+The paper [submission website](https://hotcarbon23.hotcrp.com/) is now available.
 
 ---
 
