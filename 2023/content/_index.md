@@ -13,6 +13,7 @@ embodied impact of computer systems.
 
 ## Updates and news
 
+* Videos are now available on the [program](/2023/program)!
 * Full copies of the papers are now linked off the program!
 * The registration page and link to register are now available on the [registration page](/2023/registration)
 * The paper [submission website](https://hotcarbon23.hotcrp.com/) is now available.
