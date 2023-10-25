@@ -22,48 +22,48 @@ _Carbon emissions are an increasingly salient metric for data centers and comput
 
 ## Session 1: Hardware (_9:40am - 10:45am_)
 
-* [__The Dirty Secret of SSDs: Embodied Carbon__](/pdf/hotcarbon22-tannu.pdf) \[[Video link](https://youtu.be/-0tzoSEL8iA)\]
+* [__The Dirty Secret of SSDs: Embodied Carbon__](/2022/pdf/hotcarbon22-tannu.pdf) \[[Video link](https://youtu.be/-0tzoSEL8iA)\]
   * Swamit Tannu (_University of Wisconsin-Madison_); Prashant J. Nair (_University of British Columbia_)
-* [__Something Old, Something New: Extending the Life of CPUs in Datacenters__](/pdf/hotcarbon22-tomlinson.pdf) \[[Video link](https://youtu.be/UhGySmVZ2ZA)\]
+* [__Something Old, Something New: Extending the Life of CPUs in Datacenters__](/2022/pdf/hotcarbon22-tomlinson.pdf) \[[Video link](https://youtu.be/UhGySmVZ2ZA)\]
   * Amanda Tomlinson, George Porter (_University of California, San Diego_)
-* [__Low Power but High Energy: The Looming Costs of Billions of Smart Devices__](/pdf/hotcarbon22-wang.pdf) \[[Video link](https://youtu.be/pkJUapm9lbU)\]
+* [__Low Power but High Energy: The Looming Costs of Billions of Smart Devices__](/2022/pdf/hotcarbon22-wang.pdf) \[[Video link](https://youtu.be/pkJUapm9lbU)\]
   * Wenpeng Wang, Victor Ariel Leal Sobral, Md Fazlay Rabbi Masum Billah, Nurani Saoda, Nabeel Nasir, Bradford Campbell (_University of Virginia_)
 
 ## Break (_10:45am - 11:15am_)
 
 ## Session 2: Networking (_11:15am - 12:20pm_)
 
-* [__Toward Carbon-Aware Networking__](/pdf/hotcarbon22-zilberman.pdf) \[[Video link](https://youtu.be/3TnhbHmdBjw)\]
+* [__Toward Carbon-Aware Networking__](/2022/pdf/hotcarbon22-zilberman.pdf) \[[Video link](https://youtu.be/3TnhbHmdBjw)\]
   * Noa Zilberman (_University of Oxford_); Eve Schooler, Uri Cummings (_Intel_); Rajit Manohar (_Yale University_); Dawn Nafus (_Intel_); Robert Soulé (_Yale University_); Rick Taylor (_Ori Industries_)
-* [__The Internet of tomorrow must sleep more and grow old__](/pdf/hotcarbon22-jacob.pdf) \[[Video link](https://youtu.be/EUprOJTvQ84)\]
+* [__The Internet of tomorrow must sleep more and grow old__](/2022/pdf/hotcarbon22-jacob.pdf) \[[Video link](https://youtu.be/EUprOJTvQ84)\]
   * Romain Jacob, Laurent Vanbever (_ETH Zürich_)
-* [__Multiple smaller base stations are greener than a single powerful one: Densification of Wireless Cellular Networks__](/pdf/hotcarbon22-gupta.pdf) \[[Video link](https://youtu.be/3H_-jbiaoF8)\]
+* [__Multiple smaller base stations are greener than a single powerful one: Densification of Wireless Cellular Networks__](/2022/pdf/hotcarbon22-gupta.pdf) \[[Video link](https://youtu.be/3H_-jbiaoF8)\]
   * Agrim Gupta, Ish Kumar Jain, Dinesh Bharadia (_University of California San Diego_)
 
 ## Lunch (_12:20pm - 1:30pm_)
 
 ## Session 3: Metrics (_1:30pm - 3:00pm_)
 
-* [__Sustainable Computing - Without the Hot Air__](/pdf/hotcarbon22-bashir.pdf) \[[Video link](https://youtu.be/uQsKxmEMj5A)\]
+* [__Sustainable Computing - Without the Hot Air__](/2022/pdf/hotcarbon22-bashir.pdf) \[[Video link](https://youtu.be/uQsKxmEMj5A)\]
   * Noman Bashir, David Irwin, Prashant Shenoy, Abel Souza (_University of Massachusetts Amherst_)
-* [__Beyond PUE: Flexible Datacenters Empowering the Cloud to Decarbonize__](/pdf/hotcarbon22-chien.pdf) \[[Video link](https://youtu.be/N-tWk1pNn_A)\]
+* [__Beyond PUE: Flexible Datacenters Empowering the Cloud to Decarbonize__](/2022/pdf/hotcarbon22-chien.pdf) \[[Video link](https://youtu.be/N-tWk1pNn_A)\]
   * Andrew A. Chien (_University of Chicago and Argonne National Laboratory_); Chaojie Zhang, Liuzixuan Lin, Varsha Rao (_University of Chicago_)
-* [__Metrics for Sustainability in Data Centers__](/pdf/hotcarbon22-gandhi.pdf) \[[Video link](https://youtu.be/PZpX3wqgCmU)\]
+* [__Metrics for Sustainability in Data Centers__](/2022/pdf/hotcarbon22-gandhi.pdf) \[[Video link](https://youtu.be/PZpX3wqgCmU)\]
   * Anshul Gandhi (_Stony Brook University_); Kanad Ghose, Kartik Gopalan (_Binghamton University_); Syed Rafiul Hussain (_Pennsylvania State University_); Dongyoon Lee (_Stony Brook University_); Yu David Liu (_Binghamton University_); Zhenhua Liu (_Stony Brook University_); Patrick McDaniel (_Pennsylvania State University_); Shuai Mu, Erez Zadok (_Stony Brook University_)
-* [__The Odd One Out: Energy is not like Other Metrics__](/pdf/hotcarbon22-anand.pdf) \[[Video link](https://youtu.be/3EWmqhah7Rs)\]
+* [__The Odd One Out: Energy is not like Other Metrics__](/2022/pdf/hotcarbon22-anand.pdf) \[[Video link](https://youtu.be/3EWmqhah7Rs)\]
   * Vaastav Anand, Zhiqiang Xie, Matheus Stolet, Roberta De Viti, Thomas Davidson, Reyhaneh Karimipour, Safya Alzayat, Jonathan Mace (_Max Planck Institute for Software Systems (_MPI-SWS_)_)
 
 ## Break (_3:00pm - 3:30pm_)
 
 ## Session 4: Datacenters (_3:30p - 5:00p_)
 
-* [__Carbon Dependencies in Datacenter Design and Management__](/pdf/hotcarbon22-acun.pdf) \[[Video link](https://youtu.be/Ywk3H1PHec8)\]
+* [__Carbon Dependencies in Datacenter Design and Management__](/2022/pdf/hotcarbon22-acun.pdf) \[[Video link](https://youtu.be/Ywk3H1PHec8)\]
   * Bilge Acun (_Meta AI / FAIR_); Benjamin C. Lee (_University of Pennsylvania, Meta_); Fiodar Kazhamiaka (_Stanford University_); Aditya Sundarrajan, Manoj Chakkaravarthy (_Meta_); Kiwan Maeng (_Meta AI_); David Brooks (_Harvard_); Carole-Jean Wu (_Meta AI / FAIR / ASU_)
-* [__Challenges and Opportunities in Sustainable Serverless Computing__](/pdf/hotcarbon22-sharma.pdf) \[[Video link](https://youtu.be/noWMDxVAOyk)\]
+* [__Challenges and Opportunities in Sustainable Serverless Computing__](/2022/pdf/hotcarbon22-sharma.pdf) \[[Video link](https://youtu.be/noWMDxVAOyk)\]
   * Prateek Sharma (_Indiana University_)
-* [__A Case For Carbon-Aware Datacenter Software__](/pdf/hotcarbon22-anderson.pdf) \[[Video link](https://youtu.be/4AEtZn4zwJQ)\]
+* [__A Case For Carbon-Aware Datacenter Software__](/2022/pdf/hotcarbon22-anderson.pdf) \[[Video link](https://youtu.be/4AEtZn4zwJQ)\]
   * Thomas Anderson (_University of Washington_); Adam Belay (_MIT_); Mosharaf Chowdhury (_University of Michigan_); Asaf Cidon (_Columbia_); Irene Zhang (_Microsoft Research_)
-* [__The Sky is not the limit: Untapped opportunities for Green Computing__](/pdf/hotcarbon22-josephson.pdf) \[[Video link](https://youtu.be/TnVmrsdH6Xo)\]
+* [__The Sky is not the limit: Untapped opportunities for Green Computing__](/2022/pdf/hotcarbon22-josephson.pdf) \[[Video link](https://youtu.be/TnVmrsdH6Xo)\]
   * Colleen Josephson (_VMware and UC Santa Cruz_); Zhelong Pan, Nicola Peill-Moelter, Victor Firoiu, Ben Pfaff (_VMware_)
 
 ## What's next? An open conversation among all attendees (_5:00p - 6:00p_)

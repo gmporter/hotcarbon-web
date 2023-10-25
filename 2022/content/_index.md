@@ -13,13 +13,13 @@ impact of computer systems.
 
 ## Updates and news
 
-* Jun 10: The [Registration Website](/registration) is now available!
-* Jun 7: The [Technical Program](/program) is now available
+* Jun 10: The [Registration Website](/2022/registration) is now available!
+* Jun 7: The [Technical Program](/2022/program) is now available
 * Jun 7: Attendee registration will be open in the next few days. Stay tuned!
 
 ## Technical program
 
-The accepted papers and talks are available on the [Technical Program](/program)
+The accepted papers and talks are available on the [Technical Program](/2022/program)
 
 ## Key Dates and locations
 
